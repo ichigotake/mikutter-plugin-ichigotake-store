@@ -7,3 +7,4 @@ version: '0.1'
 author: ichigotake
 name: 自己規制プラグイン
 description: TwitterAPIの制限とは関係無しに独自の規制ルールを設定するmikutterプラグイン
+repository: git://github.com/ichigotake/mikutter-plugin-self-limit.git
