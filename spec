@@ -4,7 +4,7 @@ depends:
   mikutter: 0.2.1.1119
   plugin:
     - mikustore
-version: '1.1'
+version: '1.2'
 author: ichigotake
 name: ichigotake's store
 description: ichigotakeの書いたmikutterプラグインをみっくストアに追加するプラグイン
