@@ -1,0 +1,15 @@
+CHANGELOG
+
+- v 1.2 
+  - add: auto_shindanmaker v 1.1
+  - update: profile_image_search v 1.0 => v 1.2
+
+- v 1.1
+  - update: yaked_tweet v 1.0 => v 1.1
+
+- v 1.0
+  - original version
+  - add: profile_image_search v 1.0
+  - add: yaked_tweet v 1.0
+  - add: self_limit v 0.1
+
