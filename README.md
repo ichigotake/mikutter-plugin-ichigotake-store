@@ -14,11 +14,13 @@
 
 ## 登録されているプラグイン
 
-- [yaked\_tweet - 余計な一言プラグイン](https://github.com/ichigotake/mikutter-plugin-yaked-tweet)
+- [auto\_shindanmaker - 診断メーカー自動投稿プラグイン](https://github.com/ichigotake/mikutter-plugin-auto-shindanmaker)
+
+- [profile\_image\_search - プロフィール画像検索プラグイン](https://github.com/ichigotake/mikutter-plugin-profile-image-search)
 
 - [self\_limit - 自己規制プラグイン](https://github.com/ichigotake/mikutter-plugin-self-limit)
 
-- [profile\_image\_search - プロフィール画像検索プラグイン](https://github.com/ichigotake/mikutter-plugin-profile-image-search)
+- [yaked\_tweet - 余計な一言プラグイン](https://github.com/ichigotake/mikutter-plugin-yaked-tweet)
 
 ## その他
 
