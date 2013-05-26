@@ -1,5 +1,8 @@
 CHANGELOG
 
+- v 1.4
+  - update: yaked_tweet v 1.2 => v 1.3
+
 - v 1.3
   - update: profile_image_search v 1.2 => v 1.3
   - update: self_limit v 0.1 => v 0.2
