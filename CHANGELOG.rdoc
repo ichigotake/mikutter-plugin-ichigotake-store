@@ -1,5 +1,11 @@
 CHANGELOG
 
+- v 1.5
+  - bugfix: no repository
+  - update: auto_shindanmaker v 1.1 => v 1.2
+  - update: self_limit v 0.2 => v 0.3
+  - update: yaked_tweet v 1.3 => v 1.4
+
 - v 1.4
   - update: yaked_tweet v 1.2 => v 1.3
 
