@@ -1,5 +1,8 @@
 CHANGELOG
 
+- v 1.6
+  - update: profile_image_search v1.4
+
 - v 1.5
   - bugfix: no repository
   - update: auto_shindanmaker v 1.1 => v 1.2
