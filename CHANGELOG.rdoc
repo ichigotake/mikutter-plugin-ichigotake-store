@@ -1,5 +1,10 @@
 CHANGELOG
 
+- v 1.7
+  - add: MIT LICENSE
+  - update: auto_shindanmaker v1.3
+  - update: profile_image_search v1.5
+
 - v 1.6
   - update: profile_image_search v1.4
 
