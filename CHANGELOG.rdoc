@@ -1,5 +1,8 @@
 CHANGELOG
 
+- v 1.8
+  - update: copyright
+
 - v 1.7
   - add: MIT LICENSE
   - update: auto_shindanmaker v1.3
